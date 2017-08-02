@@ -1,0 +1,2 @@
+# gossjs
+digging into javascript
